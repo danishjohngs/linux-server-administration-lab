@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Alice |Developer |developers |/app, /shared |
 | Bob |Developer |developers |/app, /shared |
-| Charlie |Operations Engineer |operations |/app, /shared, /deploy, /logs |
+| Charlie |Operations Engineer |operations, deployers |/app, /shared, /deploy, /logs |
 | David |Security Analyst |security |/logs, /security |
 | deploy |deployment account |deployers |/deploy |
 
