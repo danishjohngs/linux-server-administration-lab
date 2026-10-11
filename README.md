@@ -1,15 +1,47 @@
 # Linux Server Administration & Troubleshooting Lab
 
-A hands-on Linux administration project simulating the responsibilities of a Junior Linux / DevOps Engineer managing access and troubleshooting issues in a company's Linux environment.
+A hands-on Linux administration project simulating a junior Linux / DevOps engineer's responsibilities in a fictional company environment.
+
+The lab focuses on **user and group management, filesystem permissions, POSIX ACLs, access-control verification, and incident troubleshooting** using Ubuntu on WSL2.
 
 ## Project Overview
 
-**Company:** NexaCloud  
-**Role:** Junior Linux / DevOps Engineer  
-**Environment:** Ubuntu on WSL2
+| Detail | Description |
+|---|---|
+| Project | Linux Server Administration & Troubleshooting Lab |
+| Simulated Company | NexaCloud |
+| Role | Junior Linux / DevOps Engineer |
+| Environment | Ubuntu on WSL2 |
+| Focus Areas | Linux administration, permissions, ACLs, troubleshooting |
+| Status | Introductory lab completed |
 
-The objective of this project is to apply Linux administration concepts through practical configuration, access-control testing, and incident investigation.
+## What This Project Demonstrates
 
+- Linux user and group administration
+- File ownership and permission management
+- POSIX ACL configuration and inspection
+- Testing authorized and unauthorized access
+- Root-cause analysis of permission-related incidents
+- Applying targeted fixes and verifying expected behavior
+- Documenting technical investigations and results
+
+## Project Highlights
+
+- **Two documented incidents:** Permission Denied and Log Access Failure
+- **Practical access-control testing:** Comparing behavior across different users
+- **Structured troubleshooting:** Investigation, root-cause identification, resolution, and verification
+- **Reproducible learning environment:** Ubuntu Linux running on WSL2
+
+## Navigation
+
+- [Objectives](#objectives)
+- [Technology & Tools](#technology--tools)
+- [Simulated Company Environment](#simulated-company-environment)
+- [Completed Work](#completed-work)
+- [Troubleshooting Methodology](#troubleshooting-methodology)
+- [Repository Structure](#repository-structure)
+- [Key Learnings](#key-learnings)
+- [Project Status](#project-status)
 ## Objectives
 
 - Manage Linux users and groups.
